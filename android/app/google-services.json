@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "902999392028",
+    "firebase_url": "https://shraddha-ab5ad-default-rtdb.firebaseio.com",
+    "project_id": "shraddha-ab5ad",
+    "storage_bucket": "shraddha-ab5ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902999392028:android:102e3ad67f2e0e853c44d9",
+        "android_client_info": {
+          "package_name": "com.eulogikapp.shraddha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGwFRS7q2hCv6AoCEIbr-qTLb2eoaMUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
